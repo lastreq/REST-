@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head> 
+    <title>Getting Started: Handling Form Submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<form action="#" th:action="@{/getTest}" th:object="${profile}" method="post">
+<div>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Address</th>
+
+            <th>Email</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td><input type="text" th:field="*{id}"></td>
+            <td><input type="text" th:field="*{firstName}"></td>
+            <td><input type="text" th:field="*{lastName}"></td>
+            <td><input type="text" th:field="*{address}"></td>
+
+            <td><input type="text" th:field="*{email}"></td>
+            <td><input type="text" th:field="*{country}"></td>
+        </tr>
+
+    </table>
+</div>
+</form>
+<a href="/getTest">Найти другой профиль</a>
+</body>
+</html>

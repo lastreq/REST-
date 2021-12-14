@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Add profile</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<h1>Форма для добавления пользователя</h1>
+
+<div class="studentAdd">
+
+    <form  method ="POST">
+        <input type="hidden" path="id" id="id"/>
+        <table>
+            <tr>
+                <td><label for="firstName">Имя: </label> </td>
+                <td><input type="text"  pattern="(^[A-Z]{1}[a-z]{1,10}$)|(^[А-Я]{1}[а-я]{1,10}$)" name="firstName"  id="firstName"/></td>
+            </tr>
+
+            <tr>
+                <td><label for="lastName">Фамилия: </label> </td>
+                <td><input type="text"  pattern="(^[A-Z]{1}[a-z]{1,10}$)|(^[А-Я]{1}[а-я]{1,10}$)" name="lastName" id="lastName"/></td>
+            </tr>
+
+
+            <tr>
+                <td colspan="3" align="center">
+
+                            <input id="elem"  type="submit" value="Добавить" />
+
+
+                    <script>
+                        function handler1() {
+                            alert('Спасибо!');
+                        };
+
+                        function handler2() {
+                            alert('Спасибо ещё раз!');
+                        }
+
+                        handler2 = function()  {
+                            alert();
+
+                        };
+
+                        elem.onclick = function() { alert("Привет"); };
+                        elem.addEventListener("click", handler1); // Спасибо!
+                        elem.addEventListener("click", handler2); // Спасибо ещё раз!
+                    </script>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+</div>
+</body>
+</html>

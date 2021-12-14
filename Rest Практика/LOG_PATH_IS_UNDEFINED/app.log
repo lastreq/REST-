@@ -1,0 +1,12 @@
+2018-07-19 14:59:35.508  INFO 1564 --- [main] RestfulApplication        : Starting RestfulApplication on Anton-PC with PID 1564 (started by Anton in E:\Учёба\gs-rest-service-master\MyProg)
+2018-07-19 14:59:35.510  INFO 1564 --- [main] RestfulApplication        : No active profile set, falling back to default profiles: default
+2018-07-19 14:59:36.988  INFO 1564 --- [main] RestfulApplication        : Started RestfulApplication in 1.731 seconds (JVM running for 2.236)
+2018-07-23 22:35:13.482  INFO 11360 --- [main] test.prog.app.RestfulApplication         : Starting RestfulApplication on Notebook with PID 11360 (E:\MyProg\target\classes started by Антон in E:\MyProg)
+2018-07-23 22:35:13.486  INFO 11360 --- [main] test.prog.app.RestfulApplication         : No active profile set, falling back to default profiles: default
+2018-07-23 22:35:19.333  INFO 11360 --- [main] test.prog.app.RestfulApplication         : Started RestfulApplication in 6.591 seconds (JVM running for 8.606)
+2018-07-23 22:40:21.924  INFO 7156 --- [main] test.prog.app.RestfulApplication         : Starting RestfulApplication on Notebook with PID 7156 (E:\MyProg\target\classes started by Антон in E:\MyProg)
+2018-07-23 22:40:21.928  INFO 7156 --- [main] test.prog.app.RestfulApplication         : No active profile set, falling back to default profiles: default
+2018-07-23 22:40:28.097  INFO 7156 --- [main] test.prog.app.RestfulApplication         : Started RestfulApplication in 6.937 seconds (JVM running for 9.36)
+2018-07-23 22:41:50.319  INFO 1244 --- [main] test.prog.app.RestfulApplication         : Starting RestfulApplication on Notebook with PID 1244 (E:\MyProg\target\classes started by Антон in E:\MyProg)
+2018-07-23 22:41:50.327  INFO 1244 --- [main] test.prog.app.RestfulApplication         : No active profile set, falling back to default profiles: default
+2018-07-23 22:41:56.590  INFO 1244 --- [main] test.prog.app.RestfulApplication         : Started RestfulApplication in 7.019 seconds (JVM running for 9.108)

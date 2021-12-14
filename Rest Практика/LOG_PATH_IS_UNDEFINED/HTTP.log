@@ -1,0 +1,60 @@
+2018-07-24 01:21:45.199  INFO 14108 --- [http-nio-4002-exec-2] test.prog.controller.ProfileController   :  Запись добавлена
+2018-07-24 01:27:43.635  INFO 1228 --- [http-nio-4002-exec-1] test.prog.controller.ProfileController   :  Запись Антоноо Егоровуу Куфонина 22 10 testmail@google.com добавлена
+2018-07-24 01:32:42.932  INFO 5416 --- [http-nio-4002-exec-1] test.prog.controller.ProfileController   : Запись c ID 7 удалена
+2018-07-24 20:16:15.284  INFO 14656 --- [http-nio-4002-exec-8] test.prog.controller.ProfileController   : Запись Антоноо Егоровуу Куфонина 22 10 testmail@google.com Russia добавлена
+2018-07-24 22:29:08.138  INFO 11544 --- [http-nio-4002-exec-1] test.prog.controller.ProfileController   : Запись Антоноо Егоровуу Куфонина 22 10 testmail@google.com Russia добавлена
+2018-07-25 14:15:04.029  INFO 11600 --- [http-nio-4002-exec-5] test.prog.controller.ProfileController   : Запись Антоноо Егоровуу Куфонина 22 10 testmail@google.com Russia добавлена
+2018-07-25 19:17:24.723  INFO 3012 --- [http-nio-4002-exec-3] test.prog.controller.ProfileController   : Запись c ID 1 удалена
+2018-07-25 19:18:52.128  INFO 15664 --- [http-nio-4002-exec-4] test.prog.controller.ProfileController   : Запись c ID 2 удалена
+2018-07-26 16:15:46.312  INFO 3456 --- [http-nio-4002-exec-2] test.prog.controller.ProfileController   : Запись Антон Кисл Куфонина 22 24 guripef@2odem.com Россия добавлена
+2018-07-29 22:53:08.149  INFO 7828 --- [main] test.prog.controller.ProfileController   : Антоноо
+2018-07-29 22:55:32.617  INFO 12108 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: 3АнтонооЕгоровууКуфонина 2210testmail@google.comRussia
+2018-07-29 22:56:44.440  INFO 17028 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 22:59:09.547  INFO 6744 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:01:14.880  INFO 3184 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:06:22.298  INFO 12648 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:07:16.977  INFO 12768 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:23:05.319  INFO 8140 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:27:24.430  INFO 16452 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:27:54.946  INFO 8020 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:34:57.527  INFO 12352 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:51:12.147  INFO 12692 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:51:37.092  INFO 13184 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-29 23:55:35.166  INFO 12608 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-30 00:00:22.730  INFO 3360 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-30 00:01:19.694  INFO 12808 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-30 00:01:19.726  INFO 15496 --- [http-nio-4002-exec-5] test.prog.controller.ProfileController   : Запись Антоноо Егоровуу Куфонина 22 10 testmail@google.com Russia добавлена
+2018-07-30 00:06:49.985  INFO 12460 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:3 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-30 00:06:50.047  INFO 15496 --- [http-nio-4002-exec-8] test.prog.controller.ProfileController   : Запись Антоноо Егоровуу Куфонина 22 10 testmail@google.com Russia добавлена
+2018-07-30 00:06:50.108  INFO 15496 --- [http-nio-4002-exec-10] test.prog.controller.ProfileController   : Запись c ID 3 удалена
+2018-07-30 00:09:27.745  INFO 6744 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:0 FirstName:null LastName:null Address:null Age:0 Email:null Country:null
+2018-07-30 00:09:27.776  INFO 15496 --- [http-nio-4002-exec-2] test.prog.controller.ProfileController   : Запись Антоноо Егоровуу Куфонина 22 10 testmail@google.com Russia добавлена
+2018-07-30 00:09:27.805  INFO 15496 --- [http-nio-4002-exec-4] test.prog.controller.ProfileController   : Запись c ID 4 удалена
+2018-07-30 00:09:27.806  INFO 6744 --- [main] test.prog.controller.ProfileController   : Вывод записи удаленной методом Delete в консоль: ID:4 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-30 00:49:38.760  INFO 12080 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:22 FirstName:Антон LastName:Кисл Address:Куфонина 3 Age:11 Email:guripef@2odem.com Country:Россия
+2018-07-30 00:49:38.867  INFO 16240 --- [http-nio-4002-exec-4] test.prog.controller.ProfileController   : Запись Кирилл Суворов Ленина 11 18 mytest@google.com Россия добавлена
+2018-07-30 00:49:38.893  INFO 12080 --- [main] test.prog.controller.ProfileController   : Вывод записи удаленной методом Delete в консоль: ID:0 FirstName:null LastName:null Address:null Age:0 Email:null Country:null
+2018-07-30 00:53:51.580  INFO 9276 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в консоль: ID:22 FirstName:Антон LastName:Кисл Address:Куфонина 3 Age:11 Email:guripef@2odem.com Country:Россия
+2018-07-30 00:53:51.601  INFO 16240 --- [http-nio-4002-exec-10] test.prog.controller.ProfileController   : Запись Кирилллл Суворов Ленина 11 18 mytest@google.com Россия добавлена
+2018-07-30 00:53:51.622  INFO 16240 --- [http-nio-4002-exec-1] test.prog.controller.ProfileController   : Запись c ID 5 удалена
+2018-07-30 00:53:51.623  INFO 9276 --- [main] test.prog.controller.ProfileController   : Вывод записи удаленной методом Delete в консоль: ID:5 FirstName:Антоноо LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-30 01:09:28.222  INFO 10232 --- [http-nio-4002-exec-2] test.prog.controller.ProfileController   : Запись Кирилллл Суворов Ленина 11 18 mytest@google.com Россия добавлена
+2018-07-30 01:09:28.250  INFO 10232 --- [http-nio-4002-exec-4] test.prog.controller.ProfileController   : Запись c ID 6 удаленаl2018-07-30 01:23:42.726  INFO 16192 --- [main] test.prog.controller.ProfileController   : Вывод записи полученной методом GET в тесте: ID:22 FirstName:Антон LastName:Кисл Address:Куфонина 3 Age:11 Email:guripef@2odem.com Country:Россия
+2018-07-30 01:23:42.761  INFO 10232 --- [http-nio-4002-exec-3] test.prog.controller.ProfileController   : Запись Кириллл Сувороввв Ленина 11 18 mytest@google.com Россия добавлена
+2018-07-30 01:23:42.786  INFO 10232 --- [http-nio-4002-exec-8] test.prog.controller.ProfileController   : Запись c ID 8 удалена
+2018-07-30 01:23:42.788  INFO 16192 --- [main] test.prog.controller.ProfileController   : Вывод записи удаленной методом Delete в тесте: ID:8 FirstName:Антонооf LastName:Егоровуу Address:Куфонина 22 Age:10 Email:testmail@google.com Country:Russia
+2018-07-30 14:17:32.487  INFO 14816 --- [http-nio-4002-exec-10] test.prog.controller.ProfileController   : Запись Ан Вер Кир 22 22 testmail@google.com Russia добавлена
+2018-07-30 14:21:20.946  INFO 14816 --- [http-nio-4002-exec-2] test.prog.controller.ProfileController   : Запись Xml Xml Куфонина 22 17 testmail@google.com Russia добавлена
+2018-07-30 14:24:58.415  INFO 14816 --- [http-nio-4002-exec-5] test.prog.controller.ProfileController   : Запись Posttest Posttest Куфонина 14 24 trest@mail.ru Россия добавлена
+2018-07-30 14:25:24.905  INFO 14816 --- [http-nio-4002-exec-7] test.prog.controller.ProfileController   : Запись c ID 9 удалена
+2018-07-30 15:07:45.918  INFO 5860 --- [http-nio-4002-exec-7] test.prog.controller.ProfileController   : Запись Антон Posttest Куфонина 33 24 terest@mail.ru Россия добавлена
+2018-09-11 11:16:32.809  INFO 7272 --- [http-nio-4002-exec-6] test.prog.controller.ProfileController   : Запись Игорь Кинев Рандом 30 20 trest@mail.ru Россия добавлена
+2018-09-11 12:28:12.006  INFO 1852 --- [http-nio-4002-exec-4] test.prog.controller.ProfileController   : Запись c ID 10 удалена
+2018-09-11 13:02:30.938  INFO 10080 --- [http-nio-4002-exec-3] test.prog.controller.ProfileController   : Запись Антон Кисл Куфонина 22 24 trest@mail.ru Россия добавлена
+2019-04-22 00:17:04.141  INFO 8356 --- [http-nio-4002-exec-5] test.prog.controller.ProfileController   : Запись Андрей Киров Куфонина 22 15 test@gmail.com Россия добавлена
+2019-04-22 00:18:10.630  INFO 9488 --- [http-nio-4002-exec-9] test.prog.controller.ProfileController   : Запись Артем Шолохов Индустриальная 22 22 test@gmail.com Россия добавлена
+2019-04-22 00:19:37.022  INFO 9488 --- [http-nio-4002-exec-6] test.prog.controller.ProfileController   : Запись Иван Новиков Поздеева 22 23 test@gmail.com Россия добавлена
+2019-05-27 13:27:39.599  INFO 14892 --- [http-nio-4002-exec-2] test.prog.controller.ProfileController   : Запись Андрей Киров Индустриальная 22 54 test@gmail.com Россия добавлена
+2019-05-27 13:28:28.814  INFO 14892 --- [http-nio-4002-exec-6] test.prog.controller.ProfileController   : Запись Иван Киров Куфонина 21 17 test@gmail.com Россия добавлена
+2019-05-27 13:30:45.914  INFO 13676 --- [http-nio-4002-exec-1] test.prog.controller.ProfileController   : Запись Иван Киров Куфонина 21 17 test@gmail.com Россия добавлена
+2019-05-28 15:57:50.889  INFO 4924 --- [http-nio-4002-exec-8] test.prog.controller.ProfileController   : Запись Андрей Киров Индустриальная 22 15 test@gmail.com Россия добавлена
